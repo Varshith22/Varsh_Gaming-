@@ -1,0 +1,23 @@
+h1 {
+    color: rgb(0, 255, 255);
+}
+
+* {
+    border: solid;
+    color:black
+}
+.header{
+background-color:rgb(240, 128, 133);
+display:flex;
+justify-content: space-between;
+}
+.grid{ display: flex; flex-wrap: wrap;
+     justify-content: space-evenly; }
+
+.footer{
+    display: flex; justify-content: flex-end; }
+
+.middle{
+    display: flex; flex-wrap: wrap;
+    justify-content: space-evenly;
+}
